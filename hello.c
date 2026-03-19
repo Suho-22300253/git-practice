@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("main branch 1\n");
+    printf("main branch 2\n");
     return 0;
 }
